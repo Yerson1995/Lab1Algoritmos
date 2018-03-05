@@ -57,7 +57,7 @@ public class JavaFibonnaci {
                     default:
                         break;
                 }
-                System.out.println(f1);
+                System.out.println(f1);//muestra el ultimo valor de la secuencia de fibonacci
             }
             catch(Exception e)
             {
